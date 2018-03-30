@@ -9,16 +9,14 @@ permalink: >
 published: true
 post_date: 2018-03-30 20:45:37
 ---
-<pre><code>[tabby title="First Tab"]
+<pre><code>[tabby title="Posts"]
 
-Tabby ipsum dolor sit amet, kitty sunbathe dolor, feed me.
-
-[tabby title="Second Tab"]
+[ic_add_posts category='ready player one']
+[tabby title="Links"]
 
 Lay down in your way catnip stuck in a tree, sunbathe kittens.
 
-[tabby title="Third Tab"]
+[tabby title="Publications"]
 
-sleep in the sink climb the curtains attack, give me fish.
-
+TBD
 [tabbyending]</code></pre>
