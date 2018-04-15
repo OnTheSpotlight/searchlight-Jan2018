@@ -15,10 +15,14 @@ Form
 
 [tabby title="Submissions"]
 
-Submissions
+[ic_add_posts category='Player Unknown Battlegrounds']
 
 [tabby title="Third Tab"]
 
 sleep in the sink climb the curtains attack, give me fish.
+
+[tabby title="Posts"]
+
+[ic_add_posts category='Player Unknown Battlegrounds']
 
 [tabbyending]
