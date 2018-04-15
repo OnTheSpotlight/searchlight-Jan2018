@@ -23,11 +23,15 @@ Form
 
 [ic_add_posts category='Player Unknown Battlegrounds']
 
-[tabby title="Third Tab"]
+[tabby title="Repository"]
 
 sleep in the sink climb the curtains attack, give me fish.
 
-[tabby title="Posts"]
+[tabby title="Final Drafts"]
+
+[ic_add_posts category='Player Unknown Battlegrounds']
+
+[tabby title="Releases"]
 
 [ic_add_posts category='Player Unknown Battlegrounds']
 
