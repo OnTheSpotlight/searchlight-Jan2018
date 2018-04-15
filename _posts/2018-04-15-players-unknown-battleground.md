@@ -13,7 +13,13 @@ post_date: 2018-04-15 18:21:52
 
 Form
 
+&nbsp;
+
 [tabby title="Submissions"]
+
+[ic_add_posts category='Player Unknown Battlegrounds']
+
+[tabby title="Ideas"]
 
 [ic_add_posts category='Player Unknown Battlegrounds']
 
