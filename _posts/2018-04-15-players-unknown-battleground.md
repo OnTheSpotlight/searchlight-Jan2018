@@ -13,23 +13,17 @@ post_date: 2018-04-15 18:21:52
 
 Form
 
+[tabby title="Assignments"]
+
+sleep in the sink climb the curtains attack, give me fish
+
 &nbsp;
 
-[tabby title="Submissions"]
-
-[ic_add_posts category='Player Unknown Battlegrounds']
-
-[tabby title="Ideas"]
-
-[ic_add_posts category='Player Unknown Battlegrounds']
-
-[tabby title="Repository"]
+[tabby title="Story Repository"]
 
 sleep in the sink climb the curtains attack, give me fish.
 
-[tabby title="Final Drafts"]
-
-[ic_add_posts category='Player Unknown Battlegrounds']
+&nbsp;
 
 [tabby title="Releases"]
 
