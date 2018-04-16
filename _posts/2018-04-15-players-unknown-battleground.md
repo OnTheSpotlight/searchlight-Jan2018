@@ -1,6 +1,6 @@
 ---
 ID: 379
-post_title: Players Unknown Battleground
+post_title: Player Unknown Battleground
 author: ng23055
 post_excerpt: ""
 layout: post
@@ -17,13 +17,9 @@ Form
 
 sleep in the sink climb the curtains attack, give me fish
 
-&nbsp;
-
 [tabby title="Story Repository"]
 
 sleep in the sink climb the curtains attack, give me fish.
-
-&nbsp;
 
 [tabby title="Releases"]
 
