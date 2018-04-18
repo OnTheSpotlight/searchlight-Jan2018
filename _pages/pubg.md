@@ -17,9 +17,13 @@ Form
 
 sleep in the sink climb the curtains attack, give me fish
 
+[tabby title="Resources"]
+
+[ic_add_posts category='Player Unknown Battlegrounds']
+
 [tabby title="Story Repository"]
 
-sleep in the sink climb the curtains attack, give me fish.
+[ic_add_posts category='Player Unknown Battlegrounds']
 
 [tabby title="Releases"]
 
